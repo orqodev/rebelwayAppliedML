@@ -1,0 +1,16 @@
+{
+    "Books": {
+        "TESTID": {
+            "title": "Test Book 1",
+            "author": "Test Author 1",
+            "genre": "fiction",
+            "available": true
+        },
+        "TESTJ2": {
+            "title": "Test Book 2",
+            "author": "Test Author 2",
+            "genre": "non-fiction",
+            "available": false
+        }
+    }
+}

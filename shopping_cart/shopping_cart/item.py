@@ -1,7 +1,7 @@
 from dataclasses import dataclass, field
 from shopping_cart.random_number_utils import RandomUtils
 
-@dataclass(frozen=True,order=True, slots=True)
+@dataclass(frozen=True,order=True)
 class Item:
     name: str
     type: str
@@ -15,7 +15,3 @@ class Item:
     @property
     def search_string(self):
         return f"{self.name} {self.type}"
-
-
-
-

@@ -1,0 +1,34 @@
+{
+    "Books": {
+        "ABCDEF": {
+            "title": "The Great Gatsby",
+            "author": "F. Scott Fitzgerald",
+            "genre": "fiction",
+            "available": true
+        },
+        "GHIJKL": {
+            "title": "To Kill a Mockingbird",
+            "author": "Harper Lee",
+            "genre": "fiction",
+            "available": false
+        },
+        "XMVKTB": {
+            "title": "Brave New World",
+            "author": "Aldous Huxley",
+            "genre": "dystopian fiction",
+            "available": true
+        },
+        "VGYZQJ": {
+            "title": "1984",
+            "author": "George Orwell",
+            "genre": "dystopian fiction",
+            "available": true
+        },
+        "BQOGAT": {
+            "title": "Pride and Prejudice",
+            "author": "Jane Austen",
+            "genre": "romance",
+            "available": true
+        }
+    }
+}
